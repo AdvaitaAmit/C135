@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 900;
+    background-color: rgb(192, 147, 234);
+    border-radius: 5px;
+    width: 90%;
+    color: white;
+    box-shadow: 2px 2px 2px 2px rgb(141, 141, 141);
+}
+
+#start{
+    background-color: rgb(234, 143, 173);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgb(141, 141, 141);
+    width: 80px;
+}
+
+.copy_right_footer{
+    background-color: rgb(230, 160, 134);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    line-height: 2;
+    width: 100%;
+
+    
+}
